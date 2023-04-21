@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Active time (in minutes),Inactive time (in minutes),Minutes spent in offline meeting,Minutes spent in online meeting,Minutes spent in other offline activities,On-screen time spent ( in minutes ),Meeting schedules,Role,Productivity Score
+1,John Doe,480,120,120,60,60,240,"Meeting 1: 9am-10am, Meeting 2: 10am-11am, Meeting 3: 2pm-3pm, Meeting 4: 3pm-4pm",Sales Manager,80
+2,Jane Smith,360,240,90,90,30,150,"Meeting 1: 9am-10am, Meeting 2: 11am-12pm, Meeting 3: 4pm-5pm",Marketing Specialist,70
+3,James Johnson,420,180,60,120,30,210,"Meeting 1: 2pm-3pm, Meeting 2: 4pm-5pm",HR Coordinator,60
+4,Emily Davis,390,210,90,60,60,180,"Meeting 1: 11am-12pm, Meeting 2: 2pm-3pm, Meeting 3: 3pm-4pm",Project Manager,75
+5,Michael Wilson,450,150,60,90,60,240,"Meeting 1: 9am-10am, Meeting 2: 3pm-4pm, Meeting 3: 5pm-6pm",Software Developer,85
+6,Sarah Taylor,480,120,90,60,60,270,"Meeting 1: 10am-11am, Meeting 2: 1pm-2pm, Meeting 3: 4pm-5pm",Customer Service Representative,65
+7,David Brown,330,270,60,120,60,90,"Meeting 1: 3pm-4pm, Meeting 2: 5pm-6pm",Accountant,55
+8,Laura Martinez,420,180,90,60,30,240,"Meeting 1: 2pm-3pm, Meeting 2: 4pm-5pm",Graphic Designer,90
+9,Kevin Lee,390,210,90,30,60,210,"Meeting 1: 11am-12pm, Meeting 2: 1pm-2pm",Sales Representative,80
+10,Ashley Wilson,360,240,90,90,30,150,"Meeting 1: 3pm-4pm, Meeting 2: 5pm-6pm",Marketing Manager,70
